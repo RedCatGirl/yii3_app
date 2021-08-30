@@ -41,3 +41,6 @@ c3.php
 
 # Composer
 composer.lock
+
+runtime/*
+public/assets/*

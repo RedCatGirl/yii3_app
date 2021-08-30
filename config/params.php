@@ -43,6 +43,7 @@ return [
     'yiisoft/yii-console' => [
         'commands' => [
             'hello' => Hello::class,
+            'test' => \App\Command\Test::class,
         ],
     ],
 ];
