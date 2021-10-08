@@ -44,3 +44,4 @@ composer.lock
 
 runtime/*
 public/assets/*
+config/packages/*
